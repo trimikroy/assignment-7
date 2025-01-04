@@ -1,0 +1,62 @@
+ [
+    {
+      "player_Id": "P001",
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.postimg.cc/v8fkktJT/Virat-Kohli-TDG.jpg",
+      "role": "Batsman",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Right-arm medium",
+      "bidding_price": "200000"
+    },
+    {
+      "player_Id": "P002",
+      "name": "Joe Root",
+      "country": "England",
+      "image": "https://i.postimg.cc/kXw1P1fJ/386836-6.webp",
+      "role": "Batsman",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Right-arm off-spin",
+      "bidding_price": "150000"
+    },
+    {
+      "player_Id": "P003",
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.postimg.cc/Wb9nHD1t/Kane-Williamson.webp",
+      "role": "Batsman",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Right-arm off-spin",
+      "bidding_price": "180000"
+    },
+    {
+      "player_Id": "P004",
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "image": "https://i.postimg.cc/0yMpXc4H/images.jpg",
+      "role": "Bowler",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Right-arm fast",
+      "bidding_price": "160000"
+    },
+    {
+      "player_Id": "P005",
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "https://i.postimg.cc/bYmkz7cB/Epo-KMHy-Bvr.webp",
+      "role": "Bowler",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Right-arm fast",
+      "bidding_price": "170000"
+    },
+    {
+      "player_Id": "P006",
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://i.postimg.cc/zGggF3Ls/7719f420-75fd-11ef-b85d-05db734995da.jpg",
+      "role": "All-rounder",
+      "batting_type": "Left-hand bat",
+      "bowling_type": "Right-arm medium-fast",
+      "bidding_price": "210000"
+    }
+  ]
