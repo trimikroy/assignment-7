@@ -14,5 +14,5 @@ Technologies used.
 3. daisyui
 4.React toastify
 ### 🔗 Links
-Live link : https://assigment07.netlify.app/
+Live link : assignment-7-trimik.surge.sh
 
