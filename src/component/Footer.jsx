@@ -7,12 +7,12 @@ const Footer = () => {
     <div className='mt-10 lg:mt-20 relative '>
       <div className=' border border-white p-5 rounded-3xl shadow-md shadow-slate-400 w-10/12 mx-auto mb-4'>
      <div  className='lg:h-[350px] h-[350px] w-full rounded-2xl  text-center' style={{ backgroundImage: `url(${bg})` }}>
-          <div className='text-center lg:top-24 mt-16 absolute lg:ml-[400px] ml-16 space-y-2'>
-            <h3 className='font-bold text-[30px] text-black top-24 '>Subscribe to our Newsletter</h3>
-          <p>Get the latest updates and news right in your inbox!</p>
-            <div className='flex gap-2 space-y-2'>
+          <div className=' text-center lg:top-24 mt-16 absolute lg:ml-[400px] ml-16 space-y-2'>
+            <h3 className='font-bold text-[30px] text-black  '>Subscribe to our Newsletter</h3>
+          <p className='w-[300px]'>Get the latest updates and news right in your inbox!</p>
+            <div className='w-[300px] md:w-full flex gap-2 space-y-2'>
               <input type="text" placeholder="Enter your email" className="input input-bordered w-full max-w-xs mt-2" />
-              <button className="btn btn-warning bg-[#f5a3bb] hover:text-[#faca58]  hover:text-white">Subscribe</button>
+              <button className="btn btn-warning bg-[#f5a3bb]   hover:text-white">Subscribe</button>
             </div>
           </div>
         </div>
@@ -46,7 +46,7 @@ const Footer = () => {
   <form>
      <h6 className="footer-title">Subscribe</h6>
             <p>Subscribe to our newsletter for the latest updates.</p>
-    <fieldset className="form-control w-80">
+    <fieldset className="form-control  w-60 md:w-80">
      
       <div className="join">
         <input
